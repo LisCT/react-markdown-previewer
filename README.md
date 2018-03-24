@@ -1,6 +1,6 @@
 # React Markdown Previewer
 
-Live Demo: https://codesandbox.io/s/7mp5w4j26
+Live Demo: https://7mp5w4j26.codesandbox.io/
 
 ## Repository
 
