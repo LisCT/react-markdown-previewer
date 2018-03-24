@@ -1,9 +1,8 @@
 # React Markdown Previewer
 
+Live Demo: https://codesandbox.io/s/7mp5w4j26
 
 ## Repository
-
-Live Demo: https://codesandbox.io/s/7mp5w4j26
 
 1. Install dependencies
 
