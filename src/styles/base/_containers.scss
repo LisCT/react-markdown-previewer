@@ -1,0 +1,34 @@
+.container{
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.container__header{
+  text-align: center;  
+  padding: 2rem 0;
+}
+
+.content{
+  display: flex;
+  justify-content: space-around; 
+  flex-direction: column;
+  text-align: left;
+}
+
+.content__output{
+  width: 100%;
+  word-break: break-all;
+}
+
+// Responsive 
+
+@media (min-width: 50rem){
+  .content{
+    flex-direction: row;
+  }
+
+  .content__output{
+    max-width: 40%;
+  }
+}
